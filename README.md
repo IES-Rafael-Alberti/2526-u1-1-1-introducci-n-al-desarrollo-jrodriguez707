@@ -12,62 +12,72 @@ Apoyate en los siguientes recursos para realizar la práctica:
 # Título de la Actividad
 
 ## Identificación de la Actividad
-- **ID de la Actividad:** [ID de la actividad]
-- **Módulo:** [Nombre del módulo] (`PROG`, `IS`, `EDES`, etc.)
+- **ID de la Actividad:** [Practica 2]
+- **Módulo:** [EDES]
 - **Unidad de Trabajo:** [Número y nombre de la unidad de trabajo]
-- **Fecha de Creación:** [Fecha de creación]
-- **Fecha de Entrega:** [Fecha de entrega]
+- **Fecha de Creación:** [16/10/2025]
+- **Fecha de Entrega:** [16/10/2025]
 - **Alumno(s):** 
-  - **Nombre y Apellidos:** [Nombre y Apellidos del alumno o integrantes del grupo]
-  - **Correo electrónico:** [Correo electrónico g.educaand.es]
-  - **Iniciales del Alumno/Grupo:** [Iniciales del alumno o del grupo]
+  - **Nombre y Apellidos:** [Jesús Rodríguez Rodríguez]
+  - **Correo electrónico:** [jrodrod679@g.educaand.es]
+  - **Iniciales del Alumno/Grupo:** [JRR]
 
 ## Descripción de la Actividad
-[Descripción detallada de la actividad, objetivos, y contexto necesario para comprenderla. Explicar en qué consiste la actividad y qué se espera que el alumno desarrolle o implemente.]
+[El propósito de esta práctica es entender cómo los lenguajes de programación se relacionan con el hardware, categorizar los lenguajes en tres lenguajes diferentes: interpretados, compilados y con máquina virtual y conocer la forma de estos son ejecutados en términos de compilación, interpretación o ejecución a través de máquinas virtuales. Para lograr eso, los análisis son tres programas equivalentes escritos en Python, C y Java, que preguntan al usuario cuál es su prednombre, qué año de nacimiento posee y muestra esa salida:
+“Hola [nombre], tienes [x] años. Este programa está hecho en el lenguaje de programación: [lenguaje].”]
 
 ## Instrucciones de Compilación y Ejecución
 1. **Requisitos Previos:**
-   - [Lenguaje de programación y versión]
-   - [Entorno de desarrollo o dependencias necesarias]
+   - [Lenguajes:
+   - Python 3.7
+   - GCC 15.2 (C, compilado)
+   - Spring boot extension pack?
+   ]
+   - [Visual Studio Code]
 
 2. **Pasos para Compilar el Código:**
    ```bash
-   [Comando para compilar el código]
+   [python main.py]
    ```
 
 3. **Pasos para Ejecutar el Código:**
    ```bash
-   [Comando para ejecutar la aplicación]
+   [gcc main.c]
    ```
 
 4. **Ejecución de Pruebas:**
    ```bash
-   [Comandos para ejecutar pruebas, si las hubiera]
+   [javac main.java]
    ```
 
 ## Desarrollo de la Actividad
 ### Descripción del Desarrollo
-[Explicación de cómo se ha abordado el desarrollo de la actividad, incluyendo las decisiones de diseño, estructura del código y enfoque de resolución de problemas. Se recomienda adjuntar diagramas o capturas de pantalla si es necesario.]
+[]
 
 ### Código Fuente
-[Aquí se incluirá un enlace directo a los archivos de código fuente en el repositorio, por ejemplo, si se está usando GitHub: `src/main.java` o algún enlace directo.]
+[`src/main.java`
+`src/main.py`
+`src/main.c`]
 
 ### Ejemplos de Ejecución
 - **Entrada 1:** Descripción de la entrada y valor de prueba.
 - **Salida Esperada 1:** Explicación de la salida esperada y el resultado de la prueba.
 
 ### Resultados de Pruebas
-[Aquí se detallará cómo se ha verificado la funcionalidad del código, incluyendo resultados de pruebas automatizadas o manuales, en caso de que las haya.]
+[![alt text](image-1.png)-> java
+]
 
 ## Documentación Adicional
 - **Manual de Usuario:** [Enlace a la documentación del usuario, si existe]
 - **Autorización de Permisos:** Verificar que el profesor tenga permisos de lectura en el repositorio para revisar el código.
 
 ## Conclusiones
-[Resumen de las conclusiones alcanzadas al desarrollar la actividad, las lecciones aprendidas, y posibles mejoras que se puedan implementar en futuras entregas.]
+[No me vuelvo a quejar de python, ya que es el más fácil que he visto, C es complejo pero más rápido, y java combina portabilidad y buen rendimiento.]
 
 ## Referencias y Fuentes
-[Aquí se listarán las fuentes consultadas para el desarrollo de la actividad, tales como documentación oficial, artículos, o cualquier recurso externo relevante.]
+[Para python:https://www.youtube.com/watch?v=Kp4Mvapo5kc&list=PLNdFk2_brsRdgQXLIlKBXQDeRf3qvXVU_ es una lista para aprender python de moura dev
+Para  java: https://www.youtube.com/watch?v=W86KTBSiX2o&pp=ygUObW91cmEgZGV2IGphdmE%3D tambien es un curso de moura dev
+Para c:  https://www.youtube.com/watch?v=wk930KiQJU8&list=PLg9145ptuAig7vzvLMYBssAzSjhnGaRmQ&pp=0gcJCaIEOCosWNin este es de otro canal ]
 
 ### Notas Adicionales:
 1. **Nombres de Archivos y Repositorios:**
