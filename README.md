@@ -66,6 +66,8 @@ Apoyate en los siguientes recursos para realizar la práctica:
 ### Resultados de Pruebas
 [![alt text](image-1.png)-> java
 <img width="1174" height="423" alt="image" src="https://github.com/user-attachments/assets/1c573626-1475-4027-aa7e-5baf64e09931" />
+<img width="1449" height="138" alt="image" src="https://github.com/user-attachments/assets/eda049ce-1690-4dd2-b074-8728b898da81" />
+
 <img width="1185" height="324" alt="image" src="https://github.com/user-attachments/assets/01c94c5c-fc76-4efd-ac91-96cb19dc5556" />
 
 
